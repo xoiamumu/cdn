@@ -60,17 +60,17 @@ a:hover {
 }
 .wrap .link-area #url,
 .wrap .link-area #shorturl {
-    width: 320px;
+    width: 220px;
     height: 32px;
     line-height: 32px;
     padding: 0 10px;
     border: 3px solid #bdc3c7;
-    border-radius: 20px;
+    border-radius: 15px;
     color: #333;
 }
 .wrap .link-area #url.focus,
 .wrap .link-area #url:focus {
-    border-color: #ff4665;
+    border-color: #70c0ff;
     transition: .2s border ease;
 }
 .wrap .link-area #shorturlcopy,
@@ -99,5 +99,5 @@ a:hover {
     color: #7e7e7e;
 }
 .wrap .footer a {
-    color:#ff4665;
+    color:#009688;
 }
